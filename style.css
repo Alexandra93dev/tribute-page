@@ -1,0 +1,32 @@
+#main{
+  width:1000px;
+  height:980px;
+  margin:auto;
+  background:#C6FFCD;
+}
+#title h2{
+  text-align:center;
+  padding-top:30px;
+  padding-bottom:5px;
+}
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  padding-left:380px;
+}
+#img-caption{
+  padding-left:50px;
+  padding-bottom:30px;
+  padding-left:425px;
+}
+#tribute-info{
+  margin-left:90px;
+  margin-right:90px;
+  margin-bottom:20px;
+  font-family:arial;
+}
+#tribute-link{
+  margin-left:115px;
+  font-family:arial;
+}
